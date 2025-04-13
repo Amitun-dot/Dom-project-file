@@ -1,0 +1,61 @@
+
+html {
+  margin: 100px;
+  font-family: sans-serif;
+
+}
+.container {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+.button {
+  
+  border-radius: 5px;
+  border-color: black;
+  color: black;
+  text-align: center;
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  margin: 10px;
+}
+span {
+  display: block;
+  
+}
+#button1 {
+  background-color: #4CAF50;
+}
+#button2 {
+  background-color: #008CBA;
+}
+#button3 {
+  background-color: #f44336;
+}
+#button4 {
+  background-color: yellow;
+  
+
+}
+.button5 {
+  margin: 100px 650px;
+  width: 80px;
+  height: 50px;
+  
+}
+#button5 {
+  background-color:rgb(139, 252, 252);
+  text-decoration-color: black;
+  font-weight: bold;
+  font-style: normal;
+  width: 80px;
+  height: 50px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+}
+
